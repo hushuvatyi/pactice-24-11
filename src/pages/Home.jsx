@@ -20,7 +20,6 @@ const Home = () => {
     };
     fetchData();
   }, []);
-  console.log(countries);
 
   return (
     <Section>
